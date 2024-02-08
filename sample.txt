@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello, i am darshan.how are you-
+=======
+hello, i am darshan.how r u ...........-
+>>>>>>> e55e0385e53f9374aefa098ca1625cce0e0e8f96
